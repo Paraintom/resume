@@ -64,6 +64,26 @@ color: #74138C;
   text-decoration: none;
 }
 
+.skills-titles {
+  color: #74138C;
+  display: inline-block;
+  font-size: .9em;
+  letter-spacing: 1px;
+  margin-top: 0%;
+  margin-bottom: -1%;
+  text-decoration: none;
+}
+
+.skills-list {
+  color: #58585B;
+  display: inline-block;
+  font-size: .8em;
+  letter-spacing: 2px;
+  margin-top: 0%;
+  margin-bottom: -1%;
+  padding-left: .4em;
+}
+
 .location {
   color: #58585B;
   display: inline-block;

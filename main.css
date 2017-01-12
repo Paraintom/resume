@@ -1,7 +1,16 @@
-body {
-  background-color: white;
-  font-family: 'Gudea', sans-serif;
-  margin: 5% 15% 5% 15%;
+@media screen {
+	body {
+	  background-color: white;
+	  font-family: 'Gudea', sans-serif;
+	  margin: 5% 15% 5% 15%;
+	}
+}
+@media not screen {
+	body {
+	  background-color: white;
+	  font-family: 'Gudea', sans-serif;
+	  margin: 5% 7% 5% 7%;
+	}
 }
 
 .name {
@@ -10,6 +19,7 @@ body {
   font-size: 1.4em;
   letter-spacing: 3px;
   text-transform: uppercase;
+  margin : 0px;
 }
 
 .contact-information, .links-container {

@@ -1,4 +1,4 @@
-## Welcome on my new resume!
+## Welcome on my resume!
 
 This is a public example on how to handle your resume using static HTML/CSS page.
 

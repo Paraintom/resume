@@ -13,6 +13,5 @@ You may need to install the font if not installed on your system : http://www.fo
 
 None of this would be possible without :
 
-  * github hosting for free my resume
-  * rawgit serving it for free
+  * github hosting and serving for free my resume
   * Louisa Barrett open sourcing her own resume : http://louisabarrett.github.io/resume/
